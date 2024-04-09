@@ -34,7 +34,7 @@ public class CB_CubeManager : MonoBehaviour
         timeCoolDown = timer;
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         if (timeCoolDown < 0)
         {

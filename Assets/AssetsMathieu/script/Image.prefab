@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 2
-  timer: 10
+  timer: 5
   spriteColor:
   - {fileID: 21300000, guid: 3f1ff6179b46ba84a885bea28e044755, type: 3}
   - {fileID: 21300000, guid: 03dd85aa6534ff542a17eb5149c99fd6, type: 3}
