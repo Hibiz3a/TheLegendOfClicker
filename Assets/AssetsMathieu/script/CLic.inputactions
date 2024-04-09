@@ -1,0 +1,34 @@
+{
+    "name": "CLic",
+    "maps": [
+        {
+            "name": "clic",
+            "id": "5b8da747-0809-4523-ba96-7d1be29afc3e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "7f1d9e40-545f-432a-a447-c72a8b3a87df",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0104824f-7f4f-4ab7-9ea3-701b7d20729d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

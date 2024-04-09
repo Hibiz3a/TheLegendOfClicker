@@ -1,0 +1,34 @@
+{
+    "name": "Clic",
+    "maps": [
+        {
+            "name": "Ingame",
+            "id": "7d484e9a-49a5-4cbb-be42-1829b5e872ed",
+            "actions": [
+                {
+                    "name": "Clic",
+                    "type": "Button",
+                    "id": "8202e909-ab25-46ab-800d-c251af96f4f4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "203bf70e-b0a8-42ea-9fbd-8ac57cbc4c0b",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Clic",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
