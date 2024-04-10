@@ -34,12 +34,12 @@ public class MS_MouseClick : MonoBehaviour
 
         text.text = score.ToString();
 
-        if(score >= 50)
+        if(score >= 20)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
-        if(score >= 20)
+        if(score >= 10)
         {
             CB_CubeManager.instance.NumberOfCube = 2;
         }
